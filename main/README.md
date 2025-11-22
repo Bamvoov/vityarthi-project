@@ -79,3 +79,28 @@ All scripts follow a consistent pattern:
         
 
 Few Snapshots of the project :
+<img width="1287" height="878" alt="Pasted image 20251122160610" src="https://github.com/user-attachments/assets/73c1a30f-b88f-42c8-a9a8-b32f2db90fd5" />
+
+<img width="1296" height="818" alt="Pasted image 20251122160520" src="https://github.com/user-attachments/assets/4e24f86c-f8a7-4b04-a8dd-307fa4bdfe4c" />
+
+<img width="758" height="729" alt="Pasted image 20251122160427" src="https://github.com/user-attachments/assets/1ae36a7e-8001-43de-8279-efe06e86d354" />
+
+<img width="780" height="791" alt="Pasted image 20251122160410" src="https://github.com/user-attachments/assets/2b3c30df-598d-4f0a-8ef6-c6e2ebb20284" />
+
+<img width="644" height="554" alt="Pasted image 20251122155639" src="https://github.com/user-attachments/assets/fd5c4749-5cc9-43c3-ab53-57063789349a" />
+
+<img width="641" height="815" alt="Pasted image 20251122155619" src="https://github.com/user-attachments/assets/ad86630e-8aa6-4e24-863c-c469025cf0b4" />
+
+<img width="627" height="835" alt="Pasted image 20251122155600" src="https://github.com/user-attachments/assets/45022326-721a-461e-af51-b6b9199528fe" />
+
+<img width="835" height="742" alt="Pasted image 20251122155512" src="https://github.com/user-attachments/assets/53e2bf1d-b8a4-4655-b480-05ecdbd68408" />
+
+<img width="837" height="718" alt="Pasted image 20251122155441" src="https://github.com/user-attachments/assets/6c3d8cfd-6866-41f7-ab3a-98a444d656e7" />
+
+<img width="528" height="776" alt="Pasted image 20251122155402" src="https://github.com/user-attachments/assets/c5f86fb2-f0c5-4e65-a6fb-8dca26c629d1" />
+
+<img width="972" height="608" alt="Pasted image 20251122155251" src="https://github.com/user-attachments/assets/2cf228e2-8e70-4d49-8bf2-6a2e68ad16dc" />
+
+<img width="976" height="467" alt="Pasted image 20251122155232" src="https://github.com/user-attachments/assets/8dc1e391-633a-4504-857d-88bb58b85cf1" />
+
+
