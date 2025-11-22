@@ -79,27 +79,3 @@ All scripts follow a consistent pattern:
         
 
 Few Snapshots of the project :
-
-
-![[Pasted image 20251122155402.png]]
-
-![[Pasted image 20251122155441.png]]
-
-![[Pasted image 20251122155512.png]]
-
-![[Pasted image 20251122155600.png]]
-
-
-![[Pasted image 20251122155619.png]]
-
-
-
-![[Pasted image 20251122155639.png]]
-![[Pasted image 20251122160410.png]]
-
-![[Pasted image 20251122160427.png]]
-
-![[Pasted image 20251122160520.png]]
-
-![[Pasted image 20251122160610.png]]
-
