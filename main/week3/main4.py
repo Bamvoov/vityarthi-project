@@ -6,9 +6,6 @@ def is_pronic(n):
     if n < 0:
         return False
     
-    # A pronic number is the product of two consecutive integers: k * (k + 1)
-    # This means n approx k^2, so k approx sqrt(n).
-    
     k = int(math.sqrt(n))
     return k * (k + 1) == n
 

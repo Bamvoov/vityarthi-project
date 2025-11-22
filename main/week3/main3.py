@@ -6,17 +6,14 @@ def is_automorphic(n):
         return False
         
     square = n * n
-    
-    # Mathematically extract the last digits of the square
-    # The number of digits to extract equals the number of digits in n
-    
+
     temp_n = n
     divisor = 1
     while temp_n > 0:
         divisor *= 10
         temp_n //= 10
         
-    # Special case for n=0
+
     if n == 0:
         divisor = 10
         
